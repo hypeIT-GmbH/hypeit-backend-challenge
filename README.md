@@ -61,7 +61,7 @@ You are free to choose a local database:
 ## 🧪 Testing
 Add at least one unit or integration test using:
 - Node.js: Jest
-- Spring Boot: JUnit + MockMvc
+- Spring Boot: JUnit + Mockito
 
 ## 🛠 Extras (Optional, But Nice)
 - Input validation with proper error responses
