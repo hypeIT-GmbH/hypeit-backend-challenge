@@ -66,6 +66,7 @@ Add at least one unit or integration test using:
 ## 🛠 Extras (Optional, But Nice)
 - Input validation with proper error responses
 - Pagination for the list endpoint
+- Authentication (JWT)
 - Caching
 - Swagger or OpenAPI documentation
 - Docker setup
