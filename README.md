@@ -6,8 +6,8 @@ This API will support features such as listing, filtering, creating, and retriev
 
 ## 🚀 Before You Start
 ⚠️ Important: Choose one stack:
-	•	Node.js 20+ with Express, TypeScript and TypeORM (preferred)
-	•	Java 17+ with Spring Boot 3.x
+- Node.js 20+ with Express, TypeScript and TypeORM (preferred)
+- Java 17+ with Spring Boot 3.x
 
 ⚠️ Do not fork this repository.
 Instead: 
