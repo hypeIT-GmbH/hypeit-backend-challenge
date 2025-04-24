@@ -19,23 +19,26 @@ Instead:
 Alternatively, you may submit a ZIP file with your project.
 
 ## 🔧 Requirements
-Your task is to create a REST API with the following Endpoints:
-1. GET /festivals
+Your task is to create a REST API with the following Endpoints (think about good endpoint namings):
+1. GET festivals
     - Returns a list of all festivals.
     - Support query parameters for filtering:
         - name (partial match)
         - location (exact match)
         - from / to (date range)
 
-2. GET /festivals/:id
+2. GET festival
     - Returns detailed information about a single festival.
 
-3. POST /festivals
+3. POST festival
     - Creates a new festival.
     - Required fields: name, date, location
     - Optional: imageUrl, description
 
-4. PUT /festivals/:id
+4. PUT festival
+    - Updates an existing festival.
+
+5. DELETE festival
     - Updates an existing festival.
 
 ### 📦 Database
