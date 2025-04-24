@@ -60,7 +60,7 @@ You are free to choose a local database:
 
 ## 🧪 Testing
 Add at least one unit or integration test using:
-- Node.js: Jest + Supertest
+- Node.js: Jest
 - Spring Boot: JUnit + MockMvc
 
 ## 🛠 Extras (Optional, But Nice)
